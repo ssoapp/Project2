@@ -1,0 +1,2 @@
+The second Fablab project is a combination of two busts scanned using the Kinect and merged using Meshmixer, Netfabb, and OpenSCAD.
+After scanning the busts, I sliced the models vertically and merged them back together. An exclamation mark was placed on the face and the new bust was placed on a flat surface before printing. 
